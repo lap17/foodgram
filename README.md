@@ -1,5 +1,4 @@
 # Проект Foodgram
-![example workflow](https://github.com/lusha17/foodgram-project-react/workflows/foodgram_workflow.yml/badge.svg)  
 
 Foodgram реализован для публикации рецептов. Авторизованные пользователи
 могут подписываться на понравившихся авторов, добавлять рецепты в избранное,
